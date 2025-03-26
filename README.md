@@ -8,7 +8,10 @@ Instalar Go (si no lo tiene instalado)
 
 Descarga Go desde https://go.dev/dl/
 
-Instala Go siguiendo las instrucciones de la página oficial.
+Instala Go siguiendo las instrucciones de la página oficial. Si usa Windows, puede abrir una terminal (cmd o PowerShell) y navegar hasta la carpeta usando cd ruta/de/proyecto
+
+En Linux/macOS, debe asegurarse de que Go esté en su PATH
+
 
 Para comprobar que está instalado correctamente, hay que abrir una terminal y ejecuta:
 
